@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bedtime">
+    <output-path>$PROJECT_DIR$/out/artifacts/bedtime.jar</output-path>
+    <root id="archive" name="bedtime.jar">
+      <element id="module-output" name="bedtime" />
+    </root>
+  </artifact>
+</component>
