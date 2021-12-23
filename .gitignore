@@ -1,7 +1,7 @@
 paper1.18.1/
 out/
 .idea/
-
+#
 # Compiled class file
 *.class
 
