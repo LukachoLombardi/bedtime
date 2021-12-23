@@ -1,0 +1,5 @@
+name: bedtime
+version: 0.5
+author: lukacho
+main: com.gmail.spamherrre2.bedtime.bedtime
+api-version: 1.18
